@@ -1,1 +1,2 @@
-# Angry-Bird-Day-8-with-API
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
